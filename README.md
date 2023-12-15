@@ -9,3 +9,5 @@ In this project I have used Swiggy live API to fetch all the data through CORS.
  Tailwind CSS for styling.
  Completely responsive.
 
+live link 
+https://singular-gelato-037d87.netlify.app/
