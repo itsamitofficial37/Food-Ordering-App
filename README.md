@@ -1,4 +1,4 @@
-# FoodPanda-food-app
+# Food Ordering App
 In this project I have used Swiggy live API to fetch all the data through CORS.
 
 🚀 React js as a UI library.
@@ -8,4 +8,4 @@ In this project I have used Swiggy live API to fetch all the data through CORS.
  React router-V6 for routing.
  Tailwind CSS for styling.
  Completely responsive.
- React testing library with jest for unit testing and integration testing.
+
